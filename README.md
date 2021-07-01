@@ -18,6 +18,8 @@ Enter number of rounds reported: 9
 
 This is a Jupyter notebook version of the script above that will allow the code to be run in a web browser using Binder.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessicaw9910/2021_nyc_mayor/HEAD)
+
 ## names.txt
 
 This contains the names of the rows in the table on the BOE website. It is an input of the scripts and Jupyter notebook.
