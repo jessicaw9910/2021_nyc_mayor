@@ -4,7 +4,7 @@ This project is designed to allow you to scrape the NYC Board of Elections (BOE)
 
 ## 2021_nyc_mayoral_webscraper.py
 
-This is a Python script designed to allow you to input the relevant URL and number of rounds of ballots processed to obtain a CSV file of the results. For the URL, be sure to remove the round number suffix at the end of the address added once the total number of rounds tallied is provided.
+This is a Python script designed to allow you to input the relevant URL and number of rounds of ballots processed to obtain a CSV file of the results. For the URL, be sure to remove the round number suffix at the end of the address.
 
 For the June 30 results, the following 	would be the relevant inputs:
 
