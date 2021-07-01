@@ -16,7 +16,9 @@ Enter number of rounds reported: 9
 
 ## 2021_nyc_mayoral_webscraper.ipynb
 
-This is a Jupyter notebook version of the script above that will allow the code to be run in a web browser using Binder.
+This is a Jupyter notebook version of the script above that will allow the code to be run in a web browser using Binder. 
+
+To create a new CSV file using Binder, launch Binder by clicking on the button below. Then run the code block in the Jupyter notebook. A new CSV file will be avaiable in the working directory of the GitHub repository in Binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jessicaw9910/2021_nyc_mayor/HEAD)
 
