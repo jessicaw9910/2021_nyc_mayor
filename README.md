@@ -1,4 +1,4 @@
-# 2021 NYC Mayoral Webscraper
+# 2021 NYC Mayoral Election Webscraper
 
 This project is designed to allow you to scrape the NYC Board of Elections (BOE) websites to obtain the details of all ranked-choice voting (RCV) rounds for each cadidate and export it to a CSV file.
 
